@@ -1286,6 +1286,12 @@
 			"description": "WAI-ARIA Roles, States and Properties auto-completion for Sublime Text.",
 			"additional": "Indrek Paas",
 			"url": "https://packagecontrol.io/packages/WAI-ARIA"
+		},
+		{
+			"title": "VibeFix Shopify Accessibility Checker",
+			"description": "A free, read-only check of a Shopify store's public homepage. It reports the accessibility issues software can find, against WCAG 2.0 and 2.1, Levels A and AA.",
+			"additional": "VibeFix",
+			"url": "https://vibe-fixer.com/tools/shopify-accessibility-checker"
 		}
 	],
 	"email": [
